@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 102042400134 - Syahrul Putra Mabil
 102042400152 - Alfia Fikri Fathinah
-=======
-102042400135 - Syahrul Putra Mabil
-102042400150 - Alfia Fikri Fathinah
->>>>>>> e806985362eb8262de249ebac3e8be4f4ab8ab0b
 102042400126 - Ignatius Irvan Perdana
 102042400063 - Zhafran Septama Putra Rinaldi
 102042400113 - Suryo Hutomo
